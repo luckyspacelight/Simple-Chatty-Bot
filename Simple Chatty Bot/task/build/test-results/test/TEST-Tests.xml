@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-01-11T18:35:21" hostname="PC-EXODUS" time="0.165">
+  <properties/>
+  <testcase name="start" classname="Tests" time="0.165"/>
+  <system-out><![CDATA[?[1;31m
+Start test 1?[0m
+> John
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+?[1;31m
+Start test 2?[0m
+> Nick
+Hello! My name is Aid.
+I was created in 2018.
+Please, remind me your name.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
